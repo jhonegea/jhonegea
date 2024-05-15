@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hola, soy Jhon Egea👋
+[![GitHub followers](https://img.shields.io/github/followers/jhonegea?style=social)](https://github.com/jhonegea)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhon-egea-sossa)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/jhon.egea.s)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jhon.egea)
 
-<!--
-**jhonegea/jhonegea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Soy Ingeniero de Sistemas apasionado por la tecnología. Tengo experiencia en gestión, desarrollo e implementación de software y soluciones en el área de IT, disfruto trabajar en proyectos que fortalezcan mis habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Actualmente estoy aprendiendo: React, NodeJS.
+- 💼 Trabajo en: Universidad Santo Tomás.
+- 🌍 Vivo en: Bucaramanga, Colombia.
+
+## Habilidades
+
+- **Lenguajes de Programación:** PHP y JavaScript
+- **Frameworks y Librerías:** Laravel y VueJS
+- **Herramientas:** Visual Studio Code, Linux, Postgres.
