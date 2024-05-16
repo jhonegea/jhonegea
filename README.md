@@ -8,7 +8,7 @@
 
 Soy Ingeniero de Sistemas apasionado por la tecnología. Tengo experiencia en gestión, desarrollo e implementación de software y soluciones en el área de IT, disfruto trabajar en proyectos que fortalezcan mis habilidades.
 
-- 🌱 Actualmente estoy aprendiendo: React, NodeJS.
+- 🌱 Actualmente estoy aprendiendo: React, Python, Django.
 - 💼 Trabajo en: Universidad Santo Tomás.
 - 🌍 Vivo en: Bucaramanga, Colombia.
 
