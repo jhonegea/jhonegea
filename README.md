@@ -15,5 +15,5 @@ Soy Ingeniero de Sistemas apasionado por la tecnología. Tengo experiencia en ge
 ## Habilidades
 
 - **Lenguajes de Programación:** PHP y JavaScript
-- **Frameworks y Librerías:** Laravel y VueJS
+- **Frameworks y Librerías:** Laravel y VueJS (Vuetify, Quasar)
 - **Herramientas:** Visual Studio Code, Linux, Postgres.
