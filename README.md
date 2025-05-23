@@ -8,8 +8,7 @@
 ---
 
 ## 📊 Mis estadísticas en GitHub
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonegea&hide_border=verdadero&border_radius=5&locale=es&short_numbers=verdadero&mode=weekly&card_width=600&card_height=220)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jhonegea&theme=onedark&hide_border=verdadero&border_radius=5&locale=es&short_numbers=verdadero&mode=weekly&card_width=750&card_height=250)](https://git.io/streak-stats)
 
 ## 🌐 Encuéntrame en línea
 
