@@ -3,7 +3,7 @@
 
 - 💻 Desarrollador con pasión por la tecnología, el diseño y las soluciones elegantes.
 - 🌱 Actualmente aprendiendo y profundizando en tecnologías como **Laravel, Vue.js, Quasar** y más.
-- 🎯 Apasionado por el código limpio, los buenos hábitos y la mejora continua.
+- 🎯 Apasionado por el código limpio, los buenos hábitos y la mejora continua
 
 ---
 
