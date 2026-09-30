@@ -3,7 +3,7 @@
 # 👋 ¡Hola! Soy Jhon Egea
 ### Full Stack Developer & Tech Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+Jhon+Egea+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Especializado+en+Laravel+%2B+Vue.js+%F0%9F%9A%80;Arquitectura+limpia+y+soluciones+elegantes+%E2%9C%A8)](https://github.com/jhonegea)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+Jhon+Egea+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Especializado+en+Laravel+%2B+Vue.js+%F0%9F%9A%80;Arquitectura+%F0%9F%9A%80+limpia+y;Soluciones+elegantes+%E2%9C%A8)](https://github.com/jhonegea)
 
 <p align="center">
   <a href="https://linkedin.com/in/jhon-egea-sossa">
