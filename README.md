@@ -79,11 +79,19 @@ Desarrollador de software enfocado en transformar ideas y retos complejos en apl
 
 <div align="center">
   <a href="https://github.com/jhonegea">
-    <img src="https://github-stats-alpha.vercel.app/api?username=jhonegea&theme=tokyonight&show_icons=true&hide_border=true&border_radius=8&locale=es" alt="Estadísticas de GitHub de Jhon Egea" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=jhonegea&theme=github_dark&show_icons=true&hide_border=true&border_radius=8&locale=es" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=jhonegea&theme=default&show_icons=true&hide_border=true&border_radius=8&locale=es" />
+      <img src="https://github-stats-alpha.vercel.app/api?username=jhonegea&theme=default&show_icons=true&hide_border=true&border_radius=8&locale=es" alt="Estadísticas de GitHub de Jhon Egea" width="495" />
+    </picture>
   </a>
   <br/><br/>
-  <a href="https://streak-stats.demolab.com?user=jhonegea&theme=tokyonight&hide_border=true&border_radius=8&locale=es">
-    <img src="https://streak-stats.demolab.com?user=jhonegea&theme=tokyonight&hide_border=true&border_radius=8&locale=es" alt="Racha en GitHub" />
+  <a href="https://github.com/jhonegea">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/38bdf8/jhonegea" />
+      <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969da/jhonegea" />
+      <img src="https://ghchart.rshah.org/0969da/jhonegea" alt="Calendario semanal de contribuciones de GitHub" width="720" />
+    </picture>
   </a>
 </div>
 
