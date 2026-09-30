@@ -79,19 +79,13 @@ Desarrollador de software enfocado en transformar ideas y retos complejos en apl
 
 <div align="center">
   <a href="https://github.com/jhonegea">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-alpha.vercel.app/api?username=jhonegea&theme=github_dark&show_icons=true&hide_border=true&border_radius=8&locale=es" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-stats-alpha.vercel.app/api?username=jhonegea&theme=default&show_icons=true&hide_border=true&border_radius=8&locale=es" />
-      <img src="https://github-stats-alpha.vercel.app/api?username=jhonegea&theme=default&show_icons=true&hide_border=true&border_radius=8&locale=es" alt="Estadísticas de GitHub de Jhon Egea" width="495" />
-    </picture>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonegea&theme=github_dark#gh-dark-mode-only" alt="Estadísticas de GitHub de Jhon Egea" width="495" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonegea&theme=github#gh-light-mode-only" alt="Estadísticas de GitHub de Jhon Egea" width="495" />
   </a>
   <br/><br/>
   <a href="https://github.com/jhonegea">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/38bdf8/jhonegea" />
-      <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969da/jhonegea" />
-      <img src="https://ghchart.rshah.org/0969da/jhonegea" alt="Calendario semanal de contribuciones de GitHub" width="720" />
-    </picture>
+    <img src="https://streak-stats.demolab.com?user=jhonegea&theme=github-dark-blue&hide_border=true&border_radius=8&locale=es&mode=weekly#gh-dark-mode-only" alt="Racha semanal de GitHub" width="495" />
+    <img src="https://streak-stats.demolab.com?user=jhonegea&theme=default&hide_border=true&border_radius=8&locale=es&mode=weekly#gh-light-mode-only" alt="Racha semanal de GitHub" width="495" />
   </a>
 </div>
 
