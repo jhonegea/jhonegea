@@ -79,10 +79,6 @@ Desarrollador de software enfocado en transformar ideas y retos complejos en apl
 
 <div align="center">
   <a href="https://github.com/jhonegea">
-    <img src="https://images.weserv.nl/?url=https://github.com/jhonegea.png&mask=circle&w=140&h=140" alt="Foto de perfil de Jhon Egea" width="130" height="130" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/jhonegea">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jhonegea&theme=github_dark" alt="Estadísticas de GitHub de Jhon Egea" width="495" />
   </a>
   <br/><br/>
